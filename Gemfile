@@ -33,6 +33,8 @@ gem 'redis', '~> 3.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem 'jquery-rails'
+
 gem 'devise'
 
 gem 'bootstrap', '~> 4.0.0.alpha3'
